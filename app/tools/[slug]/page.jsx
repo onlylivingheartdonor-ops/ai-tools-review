@@ -1,4 +1,4 @@
-import { AI_TOOLS } from "@/app/lib/tools";
+import { AI_TOOLS } from "../../lib/tools";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 
